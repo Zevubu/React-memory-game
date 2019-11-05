@@ -4,12 +4,12 @@ import "./style.css"
 function AppBody(props){
     return(
         <section className="card">
-            <section classname="img-container">
-                <img className="ImageID" id={props.id} alt={props.name} src={props.image}/>
+            <section className="img-container" >
+                <img className="ImageID" onClick={() => props.checkForClick(props.id)} alt={props.id} src={props.image}/>
             </section>
             {/* <section className="content">
                 <strong>Name:</strong> {props.name}
-            </section> */}
+            </section>className="img-container" */}
         </section>
     );
 };

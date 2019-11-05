@@ -1,12 +1,16 @@
 .wrapper {
-    padding-top: 10px;
-    background: #ECEFF1;
-    height:auto;
-    display: flex;
-    flex-flow: row wrap;
-    /* padding: 20px; */
-    justify-content: center;
-    align-content: flex-start;
-    overflow: auto;
-  }
-  
+  margin-top:10px;
+  margin-bottom: 20px; 
+  background: #beacac;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  flex-wrap: wrap;
+  padding: 20px;
+  justify-content: center;
+  align-content: center;
+  align-items: flex-start;
+  /* align-direction: row; */
+  border-radius: 6px; 
+}

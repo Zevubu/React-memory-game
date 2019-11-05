@@ -3,9 +3,14 @@ import './style.css';
 
 function ScoreBar(props){
     return(
-        <section>
-            <h1>Score Bar</h1>
-        </section>
+        <nav className="navbar">
+                <h2> Click the day away</h2>
+                <h4>{props.CorrectCheck}</h4>
+                <div className="score-box">
+                    <h2>Score: {props.Score} |</h2>
+                    <h2>Top Score: {props.topScore}</h2> 
+                </div>  
+        </nav>
     );
 };
 

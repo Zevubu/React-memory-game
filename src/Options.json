@@ -1,27 +1,111 @@
 [
-    {
-        "id": 1,
-        "name": "SpongeBob",
-        "image":
-          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "occupation": "Fry Cook",
-        "location": "A Pineapple Under the Sea" 
-    },
-    {
-        "id": 2,
-        "name": "Mr. Krabs",
-        "image":
-          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-        "occupation": "Restaurant Owner",
-        "location": "A Giant Anchor"
-    },
-    {
-        "id": 3,
-        "name": "Squidward",
-        "image":
-          "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "occupation": "Cashier",
-        "location": "An Easter Island Head"
-    }
+  {
+    "id": 1,
+    "name": "Young Elvis",
+    "image":
+      "https://sparksgallery.com/wp-content/uploads/2017/09/young-elvis-320x320.jpg",
+    "Artist": "Alexander Arshansky",
+    "location": "https://sparksgallery.com/",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Alone and free",
+    "image":
+      "https://sparksgallery.com/wp-content/uploads/2019/05/AloneandFree_TiffanieMang-320x320.jpg",
+    "Artist": "Tiffanie Mang",
+    "location": "https://sparksgallery.com/",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Lidia Lunch",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwWZiQSIQktJnP678xPZtHtD65fLPuDiMFwRsAz74LGJwhNS-G",
+    "Artist": "Unknown",
+    "location": "An Easter Island Head",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Pride Flag",
+    "image":
+      "https://cdn.cheapoguides.com/wp-content/uploads/sites/7/2019/10/pride-run-flag-flickr-stockcatalogue-320x320.jpg",
+    "Artist": "Unknown",
+    "location": "",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Keywords Studios",
+    "image":
+      "https://www.keywordsstudios.com/content/uploads/2017/08/Art-Final-1-320x320.jpg",
+    "Artist": "Unknown",
+    "location": "https://www.keywordsstudios.com/",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Title One",
+    "image":
+      "https://static.wixstatic.com/media/e95756_95f1fbf20457436f9dbf9c8d5acfd40a~mv2.jpg/v1/fill/w_320,h_320,fp_0.50_0.50,q_90/e95756_95f1fbf20457436f9dbf9c8d5acfd40a~mv2.jpg",
+    "Artist": "Kate Clarkson ",
+    "location": "https://www.kateclarkson.com/",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Doll House",
+    "image":
+      "https://sparksgallery.com/wp-content/uploads/2015/11/Alexander-Arshansky-Doll-House-320x320.jpg",
+    "Artist": "Alexander Arshansky",
+    "location": "https://sparksgallery.com/",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Sunrise Barn",
+    "image":
+      "https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/320x320/53c3edd8a9aa2c4f698b4568/a2e7f377d5d7799a8b1f135cf5f801a9.jpeg",
+    "Artist": "Amy Sullivan",
+    "location": "https://sparksgallery.com/",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "I walked to Stranraer in a Red Dress",
+    "image":
+      "http://www.coastal-gallery.co.uk/wp-content/uploads/2016/03/Julie-Collins-I-walked-to-Stranraer-in-a-Red-Dress-mixed-media_framed-320x320.jpg",
+    "Artist": "Julie Collins",
+    "location": "http://www.coastal-gallery.co.uk/artist/julie-collins/",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Floater",
+    "image":
+      "https://cdn11.bigcommerce.com/s-t9m9hu1fi4/images/stencil/original/h/jennifer-bain-floater__77818.1507032973_category.original.jpg",
+    "Artist": "Jennifer Bain",
+    "location": "https://skidmorecontemporaryart.com/jennifer-bain/",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Unkown",
+    "image":
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/1bee397b-895e-4ae9-9fbe-b90db976532d/danish-modern-original-artist-signed-oil-painting-schneider-3819?aspect=fit&width=320&height=320",
+    "Artist": "Schneider",
+    "location": "https://www.chairish.com/product/1883320/danish-modern-original-artist-signed-oil-painting-schneider",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Ice Pop",
+    "image":
+      "http://www.vsunio.com/uploads/painter/preview/581b6cbe38d32.jpg",
+    "Artist": "Konstantin Lupanov",
+    "location": "http://www.vsunio.com/en/artist/konstantin_lupanov/",
+    "clicked": false
+  }
 
 ]
