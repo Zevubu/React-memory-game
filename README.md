@@ -1,3 +1,8 @@
+This is a memory game built useing react 
+
+visit live site at https://radiant-lake-78483.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
